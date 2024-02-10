@@ -1,16 +1,12 @@
-### Hi there 👋
+### 안녕하세요! 👋
 
-<!--
-**KimJinWooDa/KimJinWooDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+블로그 : https://wlsdn629.tistory.com/
+이메일 : wlsdn62290@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 저는 아주대학교 학생입니다.
+- 🌱 현재 게임 제작을 하고 있습니다.
+- 👯 저와 함께 게임 제작을 할 사람을 구합니다!
+- 🤔 저의 상상을 완성시켜줄 기획자와 제 상상을 시각적으로 보여줄 디자이너를 구합니다!
+- 💬 저에 대해 궁금하신 분들은 이메일 보내주세요!
+- 😄 저는 공부를 시작한지 얼마 되지 않았습니다..저의 성장스토리는 티스토리 탄생시기와 같습니다!
+- ⚡ 아직 많이 부족하고 늦게 시작한 만큼 아는게 적지만 그 만큼 배울거리가 많아 행복함을 느끼고 있습니다.
