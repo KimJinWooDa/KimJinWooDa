@@ -6,7 +6,7 @@
 <a href="https://wlsdn629.tistory.com/">
     <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
 </a>
-<a href="https://www.youtube.com/@user-pk3if4je8r">
+<a href="https://www.youtube.com/@%EC%A7%84%EC%9A%B0%EC%9D%98%ED%98%BC%EC%9E%A3%EB%A7%90">
     <img src ="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" style="height : auto;"/>
 </a>
 
