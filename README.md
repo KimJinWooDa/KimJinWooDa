@@ -44,7 +44,6 @@ public class Developer : MonoBehaviour
       <b>Unity 엔진 마스터리</b>
       <br><br>
       <img src="https://img.shields.io/badge/URP-00AAFF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/HDRP-9966FF?style=flat-square"/>
       <img src="https://img.shields.io/badge/Shader_Graph-FF4400?style=flat-square"/>
       <img src="https://img.shields.io/badge/Timeline-22AA44?style=flat-square"/>
       <br>
@@ -84,11 +83,9 @@ public class Developer : MonoBehaviour
     </td>
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/8638/8638426.png" width="60" height="60"><br>
-      <b>VR/AR 애플리케이션</b>
+      <b>VR 애플리케이션</b>
       <br><br>
       <img src="https://img.shields.io/badge/Oculus-5D9CEC?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ARKit-FFCE54?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ARCore-FC6E51?style=flat-square"/>
       <img src="https://img.shields.io/badge/OpenXR-AC92EC?style=flat-square"/>
       <br>
       <i>몰입형 경험과<br>직관적 인터랙션 설계</i>
