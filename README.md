@@ -57,7 +57,8 @@ public class Developer : MonoBehaviour
     
     private void CreateAmazingGames()
     {
-        while(true) { 
+        while(true)
+        { 
             LearnNewSkills(); 
             BuildAwesomeProjects(); 
             ShareKnowledge();
