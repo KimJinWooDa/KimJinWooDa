@@ -38,7 +38,7 @@ public class Developer : MonoBehaviour
 {
     [Header("개인 정보")]
     [SerializeField] private string 이름 = "김진우";
-    [SerializeField] private int 나이 = 26;
+    [SerializeField] private int 나이 = 27;
     [SerializeField] private string[] 전문분야 =
     { 
         "Unity3D", "C# 프로그래밍", 
