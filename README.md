@@ -51,7 +51,7 @@ public class Developer : MonoBehaviour
     [Range(0, 100)] public float 팀워크 = 88f;
 
     private void Awake() => 
-        Debug.Log("열정적인 유니티 개발자가 깃허브에 접속했습니다!");
+        Debug.Log("대부분의 프로젝트가 Private Repo입니다 ㅠㅠ Public Repo가 많지 않습니다...");
     
     private void Start() => CreateAmazingGames();
     
